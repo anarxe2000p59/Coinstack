@@ -43,3 +43,4 @@ focus on development, not marketing
 Coinstack is a tool for development and experimentation.
 Users are solely responsible for the use and storage of their data.
 
+DOWNLOAD: https://github.com/anarxe2000p59/Coinstack/releases/tag/Coinstack
